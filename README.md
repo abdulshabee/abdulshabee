@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on MNC
-- 📫 How to reach me abdulshabeer@gmail.com
+- 📫 How to reach me abdulshabeer26@gmail.com
 
 <!---
 abdulshabee/abdulshabee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
